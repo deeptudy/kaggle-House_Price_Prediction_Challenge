@@ -1,5 +1,8 @@
 # kaggle-House-Price-Prediction-Challenge
 
+## 데이터 링크
+https://www.kaggle.com/datasets/anmolkumar/house-price-prediction-challenge/data
+
 ## 데이터 선정 이유
 - 집과 관련되어 있는 여러 속성들을 이용해 집값을 예측한다
 - 상관관계에 집중하여 여러 속성들을 추출해본다.
